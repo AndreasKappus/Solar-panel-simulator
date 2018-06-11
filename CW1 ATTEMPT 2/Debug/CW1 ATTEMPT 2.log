@@ -1,0 +1,5 @@
+﻿  main.cpp
+f:\secure software development\cw1 attempt 2\cw1 attempt 2\solarpanel.h(12): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  f:\secure software development\cw1 attempt 2\cw1 attempt 2\solarpanel.h(12): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
+  CW1 ATTEMPT 2.vcxproj -> F:\Secure Software Development\CW1 ATTEMPT 2\Debug\CW1 ATTEMPT 2.exe
+  CW1 ATTEMPT 2.vcxproj -> F:\Secure Software Development\CW1 ATTEMPT 2\Debug\CW1 ATTEMPT 2.pdb (Partial PDB)
